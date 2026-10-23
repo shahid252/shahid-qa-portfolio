@@ -37,16 +37,19 @@ export default function AboutPage() {
             leaving them a test that fails the same way next time.
           </p>
         </div>
-        <dl className="fact">
-          <dt>Based in</dt>
-          <dd>{profile.location}</dd>
-          <dt>Focus</dt>
-          <dd>UI, API, and mobile automation</dd>
-          <dt>Domains</dt>
-          <dd>Fintech, digital banking, ride-hailing, hiring</dd>
-          <dt>Open to</dt>
-          <dd>SQA automation roles, remote or Karachi</dd>
-        </dl>
+        <div className="about-side">
+          <img className="about-photo" src="/portrait.png" alt="Shahid Rasheed" />
+          <dl className="fact">
+            <dt>Based in</dt>
+            <dd>{profile.location}</dd>
+            <dt>Focus</dt>
+            <dd>UI, API, and mobile automation</dd>
+            <dt>Domains</dt>
+            <dd>Fintech, digital banking, ride-hailing, hiring</dd>
+            <dt>Open to</dt>
+            <dd>SQA automation roles, remote or Karachi</dd>
+          </dl>
+        </div>
       </div>
 
       <p className="group-label">Education</p>

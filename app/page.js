@@ -39,24 +39,11 @@ export default function HomePage() {
           </div>
         </div>
 
-        <aside className="console" aria-label="Automation snapshot">
-          <div className="console-top">
-            <span className="live">
-              <i className="pulse" aria-hidden="true" />
-              Frameworks in practice
-            </span>
-            <span>Karachi</span>
+        <aside className="console" aria-label="Portrait and recent work">
+          <div className="portrait-frame">
+            <img src="/portrait.png" alt="Shahid Rasheed" />
           </div>
-          <div className="ring-wrap">
-            <svg className="ring-svg" viewBox="0 0 120 120" aria-hidden="true">
-              <circle className="ring-track" cx="60" cy="60" r="52" />
-              <circle className="ring-value" cx="60" cy="60" r="52" />
-            </svg>
-            <div className="ring-label">
-              <strong>UI</strong>
-              <small>API · Mobile</small>
-            </div>
-          </div>
+          <p className="portrait-caption">Karachi · SQA Automation</p>
           <ul className="checks">
             <li className="check">
               <span className="mark">✓</span>
