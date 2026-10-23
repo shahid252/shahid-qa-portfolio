@@ -38,7 +38,7 @@ export default function AboutPage() {
           </p>
         </div>
         <div className="about-side">
-          <img className="about-photo" src="/portrait.png" alt="Shahid Rasheed" />
+          <img className="about-photo" src="/portrait.jpg?v=6" alt="Shahid Rasheed" />
           <dl className="fact">
             <dt>Based in</dt>
             <dd>{profile.location}</dd>

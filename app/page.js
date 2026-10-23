@@ -41,7 +41,7 @@ export default function HomePage() {
 
         <aside className="console" aria-label="Portrait and recent work">
           <div className="portrait-frame">
-            <img src="/portrait.png" alt="Shahid Rasheed" />
+            <img src="/portrait.jpg?v=6" alt="Shahid Rasheed" />
           </div>
           <p className="portrait-caption">Karachi · SQA Automation</p>
           <ul className="checks">
