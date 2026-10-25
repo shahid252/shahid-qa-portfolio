@@ -13,14 +13,12 @@ export default function ExperiencePage() {
       <header className="page-hero">
         <p className="eyebrow">01 / Experience</p>
         <h1>
-          Four years inside
+          Four years of Experience in
           <br />
-          release cycles<em>.</em>
+          test automation<em>.</em>
         </h1>
         <p>
-          From an internship to automation frameworks for ride-hailing, hiring, digital banking, and
-          international payments. The through-line is the same: find the risk, then automate the checks that
-          should never be missed.
+            Developed and maintained scalable test automation frameworks across ride-hailing, recruitment, digital banking, and international payments. Performed manual test execution, functional and API testing, and regression testing before deployments to ensure application stability. Automated end-to-end test scenarios, integrated automated tests into CI/CD pipelines, and collaborated with cross-functional teams to identify defects, mitigate risks, and support reliable software releases.
         </p>
       </header>
       <div>
