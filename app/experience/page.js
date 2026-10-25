@@ -13,9 +13,8 @@ export default function ExperiencePage() {
       <header className="page-hero">
         <p className="eyebrow">01 / Experience</p>
         <h1>
-          Four years of Experience in
-          <br />
-          test automation<em>.</em>
+          Four years of Experience
+          <br />in test automation<em>.</em>
         </h1>
         <p>
             Developed and maintained scalable test automation frameworks across ride-hailing, recruitment, digital banking, and international payments. Performed manual test execution, functional and API testing, and regression testing before deployments to ensure application stability. Automated end-to-end test scenarios, integrated automated tests into CI/CD pipelines, and collaborated with cross-functional teams to identify defects, mitigate risks, and support reliable software releases.
